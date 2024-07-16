@@ -1,5 +1,3 @@
 infrastructure/.terraform/
-*.tfstate
-*.tfplan
-*.tfplan.json
-*.tfstate.backup
+infrastructure/.terraform.lock.hcl
+infrastructure/.terraform.lock.info
