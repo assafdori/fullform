@@ -1,4 +1,6 @@
 infrastructure/.terraform/
 infrastructure/.terraform.lock.hcl
 infrastructure/.terraform.lock.info
+infrastructure/terraform.tfstate
+infrastructure/.terraform.tfstate.lock.info
 mongo-keypair.pem
