@@ -25,7 +25,7 @@ variable "public_subnet_cidr_block" {
 
 variable "ami" {
   description = "AMI ID"
-  default     = "ami-0b5eea76982371e91"
+  default     = "ami-07fa59ce6da2fe3fe"
 }
 
 variable "instance_type" {
@@ -37,4 +37,3 @@ variable "key_name" {
   description = "Key pair name"
   default     = "mongo-keypair"
 }
-
