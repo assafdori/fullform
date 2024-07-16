@@ -1,0 +1,5 @@
+infrastructure/.terraform/
+*.tfstate
+*.tfplan
+*.tfplan.json
+*.tfstate.backup
